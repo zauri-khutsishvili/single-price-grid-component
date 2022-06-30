@@ -87,7 +87,7 @@ body {
     letter-spacing: -0.0125em;
     line-height: 3rem;
     color: white;
-    margin-bottom: .8rem;
+    margin-bottom: 1rem;
     display: flex;
 }
 
@@ -98,7 +98,6 @@ body {
     color: rgba(255, 255, 255, .5);
     margin-left: .77em;
     vertical-align: middle;
-    margin-top: .1rem;
 }
 
 .grid__full-access {
