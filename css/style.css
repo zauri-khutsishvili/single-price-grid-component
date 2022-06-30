@@ -58,7 +58,7 @@ body {
     font-weight: 700;
     letter-spacing: calc(-0.022em / 1.8);
     color: var(--bright-yellow);
-    margin-bottom: 1rem;
+    margin-bottom: .9rem;
 }
 
 .grid__gain-access {
@@ -78,7 +78,7 @@ body {
     font-size: 1.8rem;
     letter-spacing: calc(-0.022em / 1.8);
     color: white;
-    margin-bottom: 2.15rem;
+    margin-bottom: 2.05rem;
 }
 
 .grid__per-month {
@@ -129,7 +129,7 @@ body {
     font-size: 1.8rem;
     letter-spacing: calc(-0.022em / 1.8);
     color: white;
-    margin-bottom: 1.8rem;
+    margin-bottom: 1.7rem;
 }
 
 .grid__reasons {
