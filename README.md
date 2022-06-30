@@ -4,7 +4,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-nzDMTaCYoS](https://www.frontendmentor.io/solutions/single-price-grid-component-nzDMTaCYoS)
 - Live Site URL: [https://zauri-khutsishvili.github.io/single-price-grid-component/](https://zauri-khutsishvili.github.io/single-price-grid-component/)
 
 ## Built with
