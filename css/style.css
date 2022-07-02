@@ -85,10 +85,15 @@ body {
     font-size: 3.2rem;
     font-weight: 700;
     letter-spacing: -0.0125em;
-    line-height: 3rem;
+    line-height: .95em;
     color: white;
     margin-bottom: 1rem;
     display: flex;
+    flex-wrap: wrap;
+}
+
+.grid__dollars {
+    margin-right: 1.23rem;
 }
 
 .grid__per-month {
@@ -96,7 +101,6 @@ body {
     font-weight: 400;
     letter-spacing: -0.0125em;
     color: rgba(255, 255, 255, .5);
-    margin-left: .77em;
     vertical-align: middle;
 }
 
@@ -135,10 +139,11 @@ body {
 }
 
 .grid__reasons {
+    list-style-type: none;
     font-size: 1.4rem;
     letter-spacing: calc(-0.016em / 1.4);
     color: rgba(255, 255, 255, .75);
-    line-height: 2rem;
+    line-height: 1.44em;
 }
 
 @media (max-width: 700px) {
