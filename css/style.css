@@ -146,6 +146,10 @@ body {
     line-height: 1.44em;
 }
 
+.grid__reasons li:last-child {
+    margin-top: -0.1rem;
+}
+
 @media (max-width: 700px) {
     body {
         margin: 0 calc(32 / 375 * 100%);
