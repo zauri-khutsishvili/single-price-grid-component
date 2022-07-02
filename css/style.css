@@ -114,8 +114,7 @@ body {
 .grid__sign-up {
     all: unset;
     width: 100%;
-    padding-top: 1.5rem;
-    padding-bottom: 1.4rem;
+    height: 4.8rem;
     background-color: var(--bright-yellow);
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.0973011);
     color: white;
@@ -145,10 +144,6 @@ body {
     letter-spacing: calc(-0.016em / 1.4);
     color: rgba(255, 255, 255, .75);
     line-height: 1.44em;
-}
-
-.grid__reasons li:last-child {
-    margin-top: -0.1rem;
 }
 
 @media (max-width: 700px) {
