@@ -18,6 +18,7 @@ html {
 
 body {
     height: 100vh;
+    min-height: 57rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -149,6 +150,7 @@ body {
 @media (max-width: 700px) {
     body {
         margin: 0 calc(32 / 375 * 100%);
+        min-height: 85rem;
     }
 
     .grid {
